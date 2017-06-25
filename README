@@ -1,0 +1,12 @@
+The android application allows the user to search for the meaning, pronounciation, synonyms, antonyms and example usage of a 'word'.
+Volley library is used to extract these inforamtion from 'wordnik' API.
+After that , the user (if she/he wants) can add the word to his dictionary, and can fetch the info about the word 'offline'.
+thus, in this way user can have a dictionary of words he/she finds important or uses frequently.
+
+Main android modules used:
+1. Volley android library.
+2. SQLite Database operations
+3. Wordnik Api
+
+TODO:
+Improve UI of the app
